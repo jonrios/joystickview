@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="JoystickView">
+        <attr name="mainCircleColor" format="color"/>
+        <attr name="mainCircleRadius" format="dimension"/>
+        <attr name="buttonColor" format="color"/>
+        <attr name="buttonRadius" format="dimension"/>
+    </declare-styleable>
+</resources>
